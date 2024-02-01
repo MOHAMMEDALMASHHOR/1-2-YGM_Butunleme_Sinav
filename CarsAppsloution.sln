@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{6076BCFB-A221-4E1E-B175-82DDB4C82A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{3E8610CB-B9D8-4FFF-8F6F-40B4CB2F209B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsApp", "CarsApp\CarsApp.csproj", "{D47B9551-E972-4400-94A6-83E2E4A6413C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6076BCFB-A221-4E1E-B175-82DDB4C82A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6076BCFB-A221-4E1E-B175-82DDB4C82A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6076BCFB-A221-4E1E-B175-82DDB4C82A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6076BCFB-A221-4E1E-B175-82DDB4C82A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8610CB-B9D8-4FFF-8F6F-40B4CB2F209B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8610CB-B9D8-4FFF-8F6F-40B4CB2F209B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8610CB-B9D8-4FFF-8F6F-40B4CB2F209B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8610CB-B9D8-4FFF-8F6F-40B4CB2F209B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47B9551-E972-4400-94A6-83E2E4A6413C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47B9551-E972-4400-94A6-83E2E4A6413C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47B9551-E972-4400-94A6-83E2E4A6413C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47B9551-E972-4400-94A6-83E2E4A6413C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
